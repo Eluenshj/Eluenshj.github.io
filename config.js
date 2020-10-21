@@ -4,7 +4,7 @@ var config = {
     texts: [
         "送给我",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
         "心爱的小可爱",  // 同上...
-        "七夕节快乐",
+        "生日快乐",
    
     ],
     /**
@@ -19,7 +19,7 @@ var config = {
     imgs: {
 		"送给我": "./imgs/0.jpg",
         "心爱的小可爱": "./imgs/1.JPG",
-         "七夕节快乐": "./imgs/2.jpg",
+         "生日快乐": "./imgs/2.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
@@ -29,7 +29,7 @@ var config = {
         balloons_flying: "好像少点东西",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
-        wish_message: "七夕节快乐",
+        wish_message: "生日快乐",
         story: "A MESSAGE FOR YOU",
     }
 };
